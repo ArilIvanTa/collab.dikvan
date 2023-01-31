@@ -28,9 +28,13 @@ body {
     font-weight: 700;
 }
 
+.grup .isi .woi input:focus {
+    outline: none;
+}
+
 .grup .isi .woi input {
     background-color: white;
-    border-radius: 0.5rem;
+    border-radius: 0.2rem;
     border: none;
     padding-left: 0.5rem;
     width: 250px;
